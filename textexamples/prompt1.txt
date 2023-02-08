@@ -1,0 +1,5 @@
+Brainstorm some title ideas for a Blog post from the following text:
+
+<<FEED>>
+
+Brainstorm some title ideas for a Blog post from the text above:
