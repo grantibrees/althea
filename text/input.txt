@@ -1,65 +1,124 @@
-TYPE Continent
-NAME Spiacia
+TYPE starwars
+NAME pyke
 
-Cinchedige is part of Spiacia. Cinchedige are the 6 Islands west of Spiacia.
+The Pyke Syndicate, also known as the Syndicate, Pyke Family, or simply as the Pykes, were spice traffickers within the Spice Cartel that operated in the criminal underground from their homeworld of Oba Diah. They also participated in the crime raids on Mandalore to start the Death Watch rule on said planet. 
 
-Who rules:
-Shared rule by Parliamentary Counsel. Heads of the noble Houses share ruling power with the Guilds, and the Heads are on the Parliamentary Counsel. The major Houses are House Sorona, House Mallor, House Doretta, House Alviate, and House Rossoviero Lion. The major Guilds are the Slatesheet Guild, the Surer's Guild, and the Weaver's Guild.
-The Parliamentary Counsel was formerly let by the late Prince.
+he Pyke Syndicate owned a large complement of Pyke patrol ships[2] and freighters to transport their enforcers and goods around the galaxy. Their troops, known as Pyke guards, were typically equipped with CC-420 pistols[1] or larger rifles.[5] However, Pyke sentinels typically possessed larger and more specialized weapons. Some sentinels were seen attempting to use a blaster turret during the riot on Kessel. Some Pyke sentinels on Kessel used stun spears to enforce the discipline of their slaves.[13]
 
-Political Structure:
-Monarchy, and Parliamentary Counsel.
+Observation droids were used for security.[1] During their campaigns on Tatooine they used repulsor trains to carry their spices,[10] and during their conflict with Fett gotra they used Scorpenek droids.[5] 
+Organization
+Alliances
 
-Largest city: Ercavica.
-Sometimes known as “The Greatest City in this or any Age”, “The Delphic City”, “The City of 1000 Wonders”, and “The Golden City of Ercavica”.
+    "But see, the Pykes control Kessel. Crimson Dawn maintains a fragile alliance with the Pykes. It's one that I can't jeopardize without risking an all-out war the Syndicates, and that, gentlemen, I will not do."
+    ―Dryden Vos[13]
 
-Ercavica information:
-House Sorona, ruled by Duke Marco Sorona. Naval control. Color: Azure.
-House Mallor, Archbishop Vay Mallor. Church control. Color: Cardinal.
-House Doretta, Duchess Lenore Doretta. Treasury control, also called “The Mint”. Color: Gold.
-House Alviate, Duke Prospero Alviate. University control. Color: Ivy.
-The Prince’s land is still held by the Knights of the Royal Red Falcon. Color: Red on Silver.
-Slatesheet Guild, owned by Lady Adisu Yitay. Prints the slates (aka newspapers). Color: Black and White.
-Surer’s Guild aka The Scale, owned by Lady Koda Shirome. The Scale has control over Exchange and Merchant laws, as well as the banks and moneylending. Color: White and Purple.
-Weaver’s Guild, owned by Taahir al-Salek. It is a newer guild, made roughly 20 years ago. Weaves are portals that let you pass through to another portal in Ercavica. The housing for these portals can be unstable, and take a lot of maintenance which is expensive.
+The Pyke Syndicate almost completely controlled the production of raw spice in the galaxy.[1] The Pykes struggled to maintain a relationship with the Black Sun,[3] even when they both joined Maul's Shadow Collective.[2] They subsequently abandoned the Shadow Collective when it became more costly than profitable for them and when they were under attack.[14] However, they later rejoined the Collective, though Maul reminded them that the Pyke Syndicate was a small player in his operations and could be replaced.[15] After the fall of the Galactic Republic, Maul eventually became the shadowy spearhead of Crimson Dawn, another of the five most powerful criminal organizations. The Pykes later maintained a shaky alliance with Crimson Dawn.[13]
+Operations
+
+    "More criminals."
+    "Spice dealers connected to all the crime families of Coruscant."
+    "The Pykes."
+    ―Bo-Katan Kryze, Pre Vizsla, and Maul[2]
+    The Pykes were responsible for ensuring the flow of spice from Kessel to Coruscant, utilizing smugglers and freighter captains to carry out Kessel Runs to ensure spice deliveries.[7] By the time of the Clone Wars, they were connected to the crime families of Coruscant.[2] As well as spice, the Pyke Syndicate also extracted coaxium from Kessel. During the reign of the Galactic Empire, the Pykes' operations on Kessel were administered by capo Quay Tolsite along with his staff of droids. The Pyke operations on Kessel employed many slaves of different species, whom Tolsite was ruthless to.[13]
+
+    History
+Auction of Eldra Kaitis
+
+The Pyke Syndicate attended the auction of Eldra Kaitis
+
+Prior to the invasion of Naboo, the Xrexus Cartel captured a young Twi'lek Jedi Padawan called Eldra Kaitis from the wreckage of a crash that had killed the other Jedi Knights and personnel. Their leader, Xev Xrexus, had her put up for auction, which caught the attention of the Pyke Syndicate and many other criminal organizations.[16] The Syndicate's leader, Lom Pyke, brought four of his men to the auction of Eldra Kaitis at Xev's hideout, but were not successful in winning the Padawan, who was bought for 2.5 million credits by Jee Kra.[17]
+
+The event took a turn when Kra and his men were ambushed by Darth Maul and his team, who took Kaitis away. Xev learned of this and shot their ship down before it could escape the system.[17] She then had the Pykes and the other gangs pay in order to hunt Kaitis and her new captors. Lom sent his four Pykes down to hunt for the Padawan. The four soon encountered Kaitis and Maul traveling below them, and they opened fire. Maul and Kaitis drew their lightsabers and deflected their shots. The four then found themselves flanked by four DRK-1 Dark Eye probe droids, which gunned down one of the Pykes. Another shot down one of the droids, but as they were distracted, Maul pounced on them. Unable to respond to the Sith apprentice, the three remaining Pykes were cut down.[18]
+Killing Sifo-Dyas
+
+Sometime later, Supreme Chancellor Finis Valorum sent Jedi Master Sifo-Dyas and his aide Silman to engage the Pykes in negotiations with the Galactic Republic regarding the Pykes' monopoly on the spice trade. At the behest of the Sith Lord Darth Tyranus, however, the Pykes killed Sifo-Dyas. As insurance against both the Jedi and Tyranus, the Pykes took Silman as a prisoner in the Pyke Palace on Oba Diah.[1]
+Clone Wars
+Joining the Shadow Collective
+
+    "We know you've been forming an army."
+    "Were you expecting us?"
+    "Underworld's a small community. I have no desire to oppose you. We come to join you."
+    ―Lom Pyke to Maul, leader of the Shadow Collective[2]
+
+Lom Pyke and the other Shadow Collective members plotting the takeover of Mandalore
+
+Years later, during the Clone Wars, the Pyke Syndicate gained control of the mining operations on the planet Kessel.[7] In 19 BBY, the Syndicate allied themselves with Maul and his Shadow Collective; the Pykes were eager to join after Maul had coerced the Black Sun into joining the alliance. Along with Black Sun, they assisted Maul and Death Watch when they attempted to force the Hutt Clan into joining the Shadow Collective on Nal Hutta, where they attacked Gardulla the Hutt's Palace and forced all but one of the Hutts to flee to Jabba's Palace. The last Hutt, Oruba, was stoked into revealing the whereabouts of the other Hutts and killed by Savage Opress afterward. The Pyke Syndicate then helped Maul attack Jabba the Hutt's Palace and force Jabba and Gorga the Hutt into joining them.[2] For the Shadow Collective's next move, the Pykes staged a false flag attack on Mandalore, allowing Death Watch to intervene as so-called defenders of the people. With the government of Mandalore unable to manage the crisis, Death Watch successfully took over Mandalore without any real resistance and locked up their opponents. The Death Watch leader, Pre Vizsla, arrested Maul and assumed control over the planet.[19]
+Aiding the Jedi
+
+    "Minister Lom, if you're going to help us, now is the time."
+    "Kill Tyranus!"
+    ―Obi-wan Kenobi and Lom Pyke regarding Darth Tyranus[1]
+
+Lom Pyke, leader of the Pykes, aims to kill Tyranus.
+
+Later, Anakin Skywalker and Obi-Wan Kenobi arrived on Oba Diah, hot on the trail of Sifo-Dyas. After admitting that the Pykes had indeed killed Sifo-Dyas, Lom introduced the Jedi Knights to Silman, whom the Pykes had kept in captivity as insurance against Tyranus. Lom told the Jedi they could have Silman in exchange for them turning a blind eye to them killing Sifo-Dyas. Shortly afterward Tyranus arrived on Oba Diah with the intention of keeping the Jedi from discovering the truth behind Sifo-Dyas' demise. Tyranus cut through several guards and killed Silman when arriving at his cell. Tyranus then engaged the Jedi and the Pykes in battle. Lom surrounded Tyranus with his men to assist the Jedi, but Tyranus killed him and escaped.[1]
+Dispute with the Black Sun
+
+Marg Krim became the leader of the Pyke Syndicate following Lom's death. When the Black Sun leader Ziton Moj proposed merging the two crime syndicates, Krim rejected the offer. In retaliation, Moj ordered the kidnapping of Krim's wife, Tezzka Krim, and their children, Vram and Laalee. Krim was unable to rely on his Pyke Syndicate subordinates for help because several of his underlings contested his leadership of the organization. In response, Krim enlisted the services of two independent bounty hunters—the former Sith apprentice Asajj Ventress and the undercover Jedi Master Quinlan Vos—to rescue his family. Ventress and Vos succeeded in rescuing Krim's family from the Black Sun fortress on Mustafar. However, Black Sun retaliated by launching an attack on the Pyke Syndicate's stronghold on Oba Diah.[3]
+Leaving the Shadow Collective
+
+    "I'm telling you--a full armada of droid vessels just appeared out of nowhere and is laying siege to our defenses."
+    "It's happening here, too--they were lying in wait for us! How could they know?!"
+    ―Ziton Moj and Fife discussing the separatist attacks on their Syndicates[14]
+
+Majordomo Fife meets with other Shadow Collective leaders.
+
+The Pykes remained loyal to Maul's Shadow Collective even after he was taken prisoner by Darth Sidious, and Krim's majordomo Fife met up with the Sith Lord on Ord Mantell with the rest of the criminals and warriors. The Pykes defended the Black Sun stronghold during an ensuing Separatist attack, but not without many casualties.[20] Following this, Fife and Ziton Moj both voiced concern over the likelihood of Maul's plan against his former Master succeeding, but they were told they would be paid nonetheless.[14]
+
+Fife and Ziton Moj withdraw their syndicates from the Shadow Collective
+
+Soon afterward the Pykes came under attack by a Separatist armada and lost a significant number of ships. The Black Sun suffered a similar attack from the Separatists and abandoned Maul because of his lack of assistance. The Pyke Syndicate followed them in their decision, and Fife informed Maul's lieutenant Rook Kast that their partnership was finished as they no longer saw any financial incentive. Because of this, the Shadow Collective fell apart, and Maul withdrew with his remaining forces following their loss on Dathomir.[14] However, the Pykes and Black Sun would later rejoin Maul and the Collective.[21]
+Spice from Kessel
+
+    "You are but one small piece moving in this mechanism which I have designed. And yet when you falter, it jeopardizes everything."
+    ―Maul, to Marg Krim[15]
+
+Pyke guards checking spice crates.
+
+During the Clone Wars, majordomo Kinash Lock, acting in the name of King Yaruba of the Yaruba Family of Kessel, negotiated a deal with Rafa Martez to deliver spice to the Pyke Syndicate on Oba Diah. Agreeing to the deal, Rafa, her sister Trace, and Trace's friend Ahsoka Tano, secretly a former Jedi, loaded up Trace's Nebula-class freighter, the Silver Angel, with the spice and set off to Oba Diah. On route, however, there was a confrontation leading Trace to believe that the Pyke Syndicate were going to take her ship, so she dumped the spice. Ahsoka Tano, realizing they still owed the Pykes 30,000 credits worth of spice, came up with a plan to get away safely. Upon arriving on Oba Diah, a group of Pykes met them on a platform, including Marg Krim. The group then pretended they had the spice and gave the Pykes empty containers. Ahsoka Tano, unbeknownst to both her friends and the Pykes, used a Jedi mind trick to convince Krim to give them the credits.[22]
+
+Not as weak willed as his fellows,[23] Fife became suspicious of the group and checked the crates, leading to the discovery that the trio had not dropped off their shipment. With Fife ordering Pyke guards after them, the group then made a hasty escape aboard their ship; however, they were cut off by patrol ships and caught in a tractor beam.[22] The group was then taken prisoner by the Pykes and Rafa was tortured. Trace escaped the torture chamber and met up with Ahsoka and Rafa who had escaped the prison cell. After nearly escaping, the group was again captured by Marg Krim and the Pykes.[24] In order for the Martezs to escape, Tano claimed the sisters still had a family and that she would tell Krim their location if the sisters did not return the spice.[15] In reality, the sisters' parents had been killed during Senate hostage crisis.[24] After the two left to their ship and Tano was taken away, Krim spoke with Fife, stating that, while he knew it was a deception, his life depended on the spice as much as theirs. When Fife questioned if he thinks Maul would find out, Krim stated his belief that their dark leader already knew since he always knows.[15]
+
+After she escaped her cell by using the Force, Tano sneaked through the facility until finding an armory, where she took a set of magnetic thermal detonators to damage the Pyke base. Elsewhere, given that they lacked the spice but intended to rescue Tano, Trace and Rafa returned to Oba Diah, intending to steal spice from the Pykes and then trade it back for Tano. Pretending they were to take delivery of a shipment, Rafa claimed the order was "from up top" and had the Toongs at the shipping dock get to work getting her the spice. Meanwhile in the facility, Tano secretly placed the detonators before overhearing Krim talking with Maul via hologram. During their discussion, Krim informed Maul that the Republic was cracking down on the Pykes, recounting that they had raided a shipment. After Tano hid from the rogue Sith's view when he seemed to notice her, Maul ordered Krim that there were to be no more delays or else another member of the Collective, Crimson Dawn, would take control of their operation. After Fife and Krim left, having been informed that Tano had escaped, she made contiuned to plant explosives and learned Maul was on Mandalore from the transmission log. However, Krim and his forces then entered the room and captured her, but not before seeing she could use the Force. This made the Pyke leader believe she was a member of the Jedi Order.[15]
+
+Marg Krim addressing a captured Ahsoka Tano
+
+After fighting off a Trandoshan manager and several Toongs, Rafa and Trace escaped the dock with the spice and went to return it to Krim. Fortunes were not as high for Tano, however, as Krim intended to kill her to help restore his syndicate's reputation. The Martez sisters then entered the room, claiming they had returned the spice that they had really just stolen, so Tano would not have to die. Krim, however, believed all three had been working for the Republic, although he soon learned both had been unaware of Tano's Force-sensitivity until he revealed it. As the Pykes around the three prepared to fire, Tano's bombs went off, giving them an opportunity to escape. They made it to the Silver Angel and, while they were chased by three Pyke ships, Tano used the Angel's gun to take out two of the craft, and Trace used the Angel itself to knock away their final pursuer. After this, the former Jedi and the sisters were finally free from the Pykes, retuning back to Trace Martez's repair shop on Coruscant. Once there, Tano thought that, because the Pykes thought she was working for the Jedi, the syndicate would not hunt down the sisters in the near future.[15]
+
+Tano's time with the sisters on Coruscant was cut short almost immediately because they had been followed by members of the Mandalore resistance. Now having recruited by Lady Bo-Katan Kryze to fight Maul,[15] Tano and her resistance eventually joined forces with the 332nd Company of the Republic's 501st Legion to besiege Mandalore and defeat the rogue Sith Lord. During the opening stages of the invasion, Prime Minister Almec ordered Kast to inform the Shadow Collective of the attack and later Maul told Krim along with Moj and Crimson Dawn's public leader Dryden Vos to lay low for the time being since he had foreseen that his old Master Darth Sidious was going to form a dictatorship styled government from the Republic and take over the galaxy soon to complete the Revenge of the Sith.[25]
+Age of the Empire
+
+    "Before the Battle of Yavin, Quay Tolsite served as director of the Pykes' operations on Kessel. He was killed in a raid on the mines that sparked a slave uprising and droid revolution. The damage to the mines and loss of coaxium cut into the Pykes' profits and upset the galactic underworld's delicate balance of power."
+    ―From the collected files of DK-RA-43, regarding Kessel[26]
+
+Quay Tolsite and his entourage meet with Qi'ra
+
+After the rise of Sidious' Galactic Empire, the Pykes continued to expand their territory throughout the galaxy. At one point, they made a deal with the Devaronian Roland Durand of the Durand crime family in exchange for spice. However, the spice was stolen by Clone Force 99 with the help of Ciddarin Scaleback, leading the Pykes to threaten Durand's life. The spice was eventually returned to them and the Pykes punished Durand for his failure by cutting off one of his horns so as to not kick off a war with his mother Isa Durand which was something they couldn't afford to do at the moment as they had just come out of hiding.[27]
+
+At one point, a news report by Cynabar's InfoNet mentioned that Pyke Syndicate was tearing down smaller criminal organizations in its bid to become the galaxy's sole spice dealer, with insiders predicting Razzi Syndicate to be next. Cynabar's analysts were doubtful that her syndicate would survive this.[9]
+
+In 10 BBY, Tobias Beckett's gang arrived on Kessel in the Millennium Falcon to steal some of the Pyke Syndicate's coaxium. First Qi'ra exited the ship with a disguised Beckett, L3-37, Han Solo, and Chewbacca (the latter two in shackles and disguised as slaves). Qi'ra was met by Tolsite, who ran the Pyke Syndicate's operations there, and his Pyke sentinels. Qi'ra claimed to be a representative who had come to negotiate a deal with Quay. Quay agreed to negotiate and told Qi'ra, Beckett, and L3-37 to come with him, while two of Quay's guards took Han and Chewbacca to work as slaves in the mining operation. When Quay and Qi'ra arrived to the control room of the mining operations, Quay led Qi'ra and L3 into a closed room but told Beckett to wait outside. When the door of the room closed, Beckett killed two of Quay's guards and began to fire at the others. Eventually, Beckett killed all of Quay's guards. Quay quickly realized something was wrong, but Qi'ra quickly tackled him to the ground and stabbed him in the chest, killing the Pyke.[13]
+
+With no guards in the control room left, L3-37 deactivated the restraints of the slaves, freeing them, and causing a massive riot. This allowed Han and Chewbacca to get free of their restrains, and knock out the guards with them. Han and Chewbacca then ran to the coaxium, but on the way, Chewbacca saw Wookiee prisoners being tortured by the Kessel guards, and went to help the Wookiees. Now alone, Han made it to the coaxium vault and took out the single sentinel guarding it. Inside he was able to steal the coaxium and start wheeling it away on a cart. On his way to the Millennium Falcon, Han was stopped by multiple guards, but Chewbacca came back just in time to take them out.[13]
+
+Han and Chewbacca were able to bring the coaxium to the Millennium Falcon, where Beckett was taking out soldiers trying to stop the riot. Several Pyke sentinels set up a gun on a tripod to disable the Millennium Falcon but were targeted and gunned down by Han and Lando. L3-37 was in the midst of the riot, yelling that it was a revolution, but the unfortunate droid was shot and destroyed by a Pyke soldier. Saddened, Lando Calrissian ran out to L3-37's mangled corpse, but he himself was shot in the arm by a Pyke soldier. Han then ran out and carried them both back to the Falcon. With the coaxium and all their crew members inside, Beckett's gang escaped the planet.[13]
+
+At one point, the arms dealer Wef arranged a deal with the Pykes. However, the clients were killed by a member of the Hidden Hand at the meetup point, who offered the Melbu a more profitable deal when they arrived.[28]
+
+Between 3 ABY and 4 ABY,[29] the Pykes were invited by Lady Qi'ra of Crimson Dawn to attend the Auction for Han Solo on Jekara. A few Pyke representatives attended the auction aboard the Vermillion and bid for Solo,[30] but they lost to Jabba the Hutt.[31] The Pykes then took part in the Syndicate War[32] spurred on by Qi'ra, whose lies made it seem like Palpatine would replace the Hutts as his partner in underworld affairs.[33] Palpatine personally put an end to the war months later by contacting the head of the Pyke Syndicate, along with the leaders of the other warring families, to demand they stop fighting and instead focus on destroying Crimson Dawn, promising to support whatever syndicate succeeded.[34]
+The New Republic Era
+Establishing a presence on Tatooine
 
 
-Values:
-Only in the last 30 years have merchants and mercantile guild risen to prominence. For the last 800 years, Spiacia has been mostly feudal. The Houses and even the commonfolk obsess over nobility. Average citizens draw long lists tracing their bloodline to ancient, obscure, and sometimes fictional nobility.
+By 5 ABY,[35] a Pyke repulsor train ran through the Dune Sea on the planet Tatooine to transport spice across the world. While on its route, the train regularly terrorized a Tusken tribe, as the Pykes wrote off the sand people as simple minded raiders who would be a threat to their spice trade. However, Boba Fett, who had come to join the Tuskens as part of the tribe, hatched a plan to stop the train that was murdering members of his new tribe, stealing speeder bikes from the Kintan Striders and teaching several Tuskens to use the vehicles. Armed with the vehicles and their experience, Fett led a team of Tuskens to take out the train, killing a number of Pykes on their journey before crashing the vehicle for good. Speaking to the surviving Pykes, Fett told them they were to respect the Dune Sea as Tusken–territory from that point forward.[10]
 
-Conservative/Liberal- Leans conservative, but has some more liberal views about sex.
-Individualistic & Collectivist- Individualist in public, but collectivist in practice. “Everyone can rise up”, but that isn’t really true. You are expected to work hard for yourself (like libertarianism), but you would be shunned if you neglected your family.
-Power Distance- High. It is difficult to get into the nobility.
-Uncertainty Avoidance- Medium (but they think it’s low).
-Orientation to Time- High.
-Gender Egalitarianism- Low.
-Assertiveness- High.
-Doing vs. Being Orientation- Between.
-Humane Orientation- Medium.
-Indulgence vs. Restraint- Indulgence.
+Later, Fett went to collect protection money from the Pyke boss for the Tusken tribe. The Pyke boss informed Fett that his superiors on Oba Diah, the capital of the Pyke Syndicate, had told him that he could not pay protection money to two groups. The boss told Fett that the Kintan Striders Tatooine had already claimed protection money from the Pykes. Fett left to resolve the matter, only to find his tribe had been massacred.[36] The massacre was carried out by the syndicate, who did not want to pay the Tuskens. They put fake evidence that pointed to the Kintan Striders, which led Fett to think the gang killed the tribe.[5] Fett later attacked the gang in revenge.[37]
 
-Fashion:
-Medieval Italian and Spanish.
+By 9 ABY,[38] it was revealed that that Jabba's former holdings on Tatooine have been promised to the Pykes by mayor Mok Shaiz. Then, a number of Pykes arrived on Tatooine from a starliner. Fett, who had taken over what was left of Jabba's criminal empire, objected to their presence.[36] They continued to establish themselves as a dominating presence on the planet, including in the cities of Mos Espa and Mos Eisley. Law enforcement refused to interfere with them.[39]
 
-Major exports: Wine, grapes, perfumes, educated statesman, educated wizards.
+Fennec Shand kills the Pyke Syndicate leaders on Tatooine
 
-Islands, North to South: Morasco, Bartolo, Portello, Ayon, Biosca.
+Later, during a Pykes trade in spices in Freetown territory, town Marshal Cobb Vanth interrupted the meeting and told the Pykes that he wouldn't tolerate the spice trade in the town. The Pykes tried to kill the marshal due to his meddling, but Vanth drew his blaster faster and killed all but one who backed out of the fight. Vanth told him to go back and inform the syndicate of his ban, but not without taking the spice and throwing it away. To solve the problem, the Pyke Syndicate sent bounty hunter Cad Bane. When Bane was unable to convince Vanth to change his mind, the two had a duel that ended with Bane injuring Vanth and killing Scott, the marshal's deputy. Later, they bombed the Sanctuary, killing many who were inside.[40] After a battle that took place in the streets of Mos Espa, the Pykes decided to leave the world due to the numerous losses caused by the battle, although Master Assassin Fennec Shand assassinated the Pyke leaders on Tatooine before they could leave.[5]
+Fading power
 
-Side island: Lajo.
-
-Toleda, the largest city on Morasco:
-Toleda is known as the "Imperial City" for having been the main venue of the court of Ciaus V, Divine Amorthian King, and as the "City of the Three Cultures" for the cultural influences of The Petty, The Grey, and The Sun reflected in its history. It was also the capital from 542 to 725 of the ancient Visimiric Kingdom, which followed the fall of the Amorthian Dominion, and the location of historic events such as the Visimiric Councils of Toleda. Toleda has a long history in the production of bladed weapons, which are now common souvenirs from the city.
-
-Primary Humanoid Inhabitants:
-Humans, Dwarves, Half-Elves
-
-Notable Wildlife:
-Many different species of birds use the North-most island as a mating ground.
-On the middle three island, brightly-colored monkeys inhabit the densest parts of the jungle.
-Large herds of seals frequent the South-most island (they also visit Protomain and South Tinollia).
-
-Religions:
-The Petty, The Grey Gods.
-
-Languages:
-Calamoyan, Moyan, Common, Dwarvish, Elvish, Halfling
+By 18 ABY, the syndicate's power had faded significantly, but was still known to be quite formidable. Around the same time the mercenary Ledesmar was known to have escaped with a fleet's worth of ships stolen from the Syndicate's inventory.[41] 

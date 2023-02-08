@@ -99,35 +99,35 @@ if __name__ == '__main__':
 
             if "is not mentioned" not in answer:
             # Print the answer
-                print('\n', answer, end='\n')
+                # print('\n', answer, end='\n')
             # Add the answer to the list of answers
                 answers.append(answer)
         
         if answers is empty:
             print("No answers available. \n")
 
-        # # Join all the answers together into a single string
-        # all_answers = '\n\n'.join(answers)
+        # Join all the answers together into a single string
+        all_answers = '\n\n'.join(answers)
 
-        # # Split the answers into smaller chunks, if necessary
-        # chunks = textwrap.wrap(all_answers, 10000)
+        # Split the answers into smaller chunks, if necessary
+        chunks = textwrap.wrap(all_answers, 10000)
 
-        # # Initialize a list to store the summaries of the answers
-        # end = list()
+        # Initialize a list to store the summaries of the answers
+        end = list()
 
-        # # Generate a summary for each chunk of answers
-        # for chunk in chunks:
-        #     # Format the prompt for the OpenAI API
-        #     prompt = open_file('text/sumanswer.txt').replace('<<SUM>>', chunk)
+        # Generate a summary for each chunk of answers
+        for chunk in chunks:
+            # Format the prompt for the OpenAI API
+            prompt = open_file('text/sumanswer.txt').replace('<<SUM>>', chunk)
 
-        #     # Call the OpenAI API to generate a summary of the answers
-        #     summary = gpt_3(prompt)
+            # Call the OpenAI API to generate a summary of the answers
+            summary = gpt_3(prompt)
 
-        #     # Add the summary to the list of summaries
-        #     end.append(summary)
+            # Add the summary to the list of summaries
+            end.append(summary)
 
-        # # Print the final summaries
-        # print('\n\n=========\n\n', '\n\n'.join(end))
+        # Print the final summaries
+        print('=========\n\n', '\n\n'.join(end))
         
         # print('\n\n=========\n\n', '\n\n'.join(all_answers))
         
